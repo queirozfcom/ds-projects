@@ -1,3 +1,4 @@
 [submodule "titanic"]
 	path = titanic
 	url = git@github.com:queirozfcom/titanic.git
+	branch = master
