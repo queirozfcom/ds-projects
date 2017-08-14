@@ -2,3 +2,6 @@
 	path = titanic
 	url = git@github.com:queirozfcom/titanic.git
 	branch = master
+[submodule "instacart"]
+	path = instacart
+	url = git@github.com:queirozfcom/instacart.git
