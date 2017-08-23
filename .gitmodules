@@ -5,3 +5,6 @@
 [submodule "instacart"]
 	path = instacart
 	url = git@github.com:queirozfcom/instacart.git
+[submodule "ulb-credit-card-fraud"]
+	path = ulb-credit-card-fraud
+	url = git@github.com:queirozfcom/ulb-credit-card-fraud.git
